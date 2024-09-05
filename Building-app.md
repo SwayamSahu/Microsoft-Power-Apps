@@ -1,4 +1,4 @@
-how to create an app on power apps , give a step by step guide ?
+How to create an app on power apps , give a step by step guide ?
 
 Creating an app in Power Apps can be broken down into a series of steps. Here’s a step-by-step guide to help you get started with building a basic app using Power Apps:
 

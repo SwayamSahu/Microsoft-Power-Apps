@@ -2,4 +2,4 @@
 
 LINK - make.powerapps.com
 
-i will update more docs
+I will add more docs and share my learnings.

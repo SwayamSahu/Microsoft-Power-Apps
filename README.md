@@ -4,7 +4,7 @@ LINK - make.powerapps.com
 
 I will add more docs and share my learnings.
 
-https://www.powerapps911.com/post/the-different-types-of-power-apps-variables
+https://www.powerapps911.com/post/the-different-types-of-power-apps-variables.
 
 
 Power Apps Course - Basic to Advanced
